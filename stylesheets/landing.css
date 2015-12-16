@@ -75,6 +75,7 @@ FONTS
     font-family: 'Audiowide', cursive;
 }
 
+
 /**********************************
 COLORS and BACKGROUNDS
 Color 1:
@@ -93,10 +94,31 @@ footer{
 }
 
 .jumbotron{
-  background: url('https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6Qazrd6bOMZ7HndZC3vFJPR0Sf3XoRls1S_3i6d3gpuJt7a2u') no-repeat center;
+  background: url('https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSMZXcOafi3BIemCX_EsWb6JNwD0zUQXSZV8OcWkQ1Oa_EMRbwRgA') no-repeat center;
   background-size: cover;
 }
 
 .portrait_name{
     background: rgba(230, 230, 230, 0.7);
+}
+h3{ 
+    font-family: 'Playball', cursive;
+    font-weight:bold;
+    
+}
+
+Body{
+    background:#DEA9FF;
+}
+
+.thumbnail{
+    background:#908EE8;
+    border:5px solid #FFAA9C;
+}
+
+
+    
+h3:hover {
+    color:#E4F3FF;
+    text-decoration: underline;
 }
